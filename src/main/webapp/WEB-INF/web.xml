@@ -4,4 +4,34 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  <!-- <servlet>
+  	<servlet-name>CreateCustomer</servlet-name>
+  	<display-name>CreateCustomer</display-name>
+  	<description></description>
+  	<servlet-class>servlets.CreateCustomer</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>DeleteCustomer</servlet-name>
+  	<display-name>DeleteCustomer</display-name>
+  	<description></description>
+  	<servlet-class>servlets.DeleteCustomer</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>EditCustomer</servlet-name>
+  	<display-name>EditCustomer</display-name>
+  	<description></description>
+  	<servlet-class>servlets.EditCustomer</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>CreateCustomer</servlet-name>
+  	<url-pattern>/customer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>DeleteCustomer</servlet-name>
+  	<url-pattern>/delete</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>EditCustomer</servlet-name>
+  	<url-pattern>/edit</url-pattern>
+  </servlet-mapping> -->
 </web-app>
